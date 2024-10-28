@@ -39,8 +39,8 @@ Ensure that you have internet access while running the bot, as it interacts with
 Be aware of the terms of service for LinkedIn and Xing regarding automated access and submissions.
 Developer Information
 Developed by: Erdem Yildiz
-LinkedIn: Erdem Yildiz
-GitHub: Erdem Yildiz GitHub
+LinkedIn: [Erdem Yildiz](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
